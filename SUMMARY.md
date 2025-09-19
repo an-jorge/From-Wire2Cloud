@@ -27,8 +27,5 @@
 
 * [Analog-to-Digital Converter (ADC)](glossary/analog-to-digital-converter-adc.md)
 * [AES 128-bit](glossary/aes-128-bit.md)
-* [Page](glossary/page.md)
-
-***
-
-* [Page 5](page-5.md)
+* [EEPROM](glossary/eeprom.md)
+* [A B C D E F G H I J K L M N O P Q R S T U V W X Y Z](glossary/a-b-c-d-e-f-g-h-i-j-k-l-m-n-o-p-q-r-s-t-u-v-w-x-y-z.md)
