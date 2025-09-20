@@ -23,7 +23,7 @@ It is widely used in microcontrollers to store **settings, calibrations, or any 
 * Counters or simple logs
 * Permanent system settings
 
-####
+
 
 * The ESP32 **does not have a physical EEPROM**, but emulates it using **internal flash** with the `EEPROM.h` library.
 * It behaves similarly but is actually writing to flash memory.
