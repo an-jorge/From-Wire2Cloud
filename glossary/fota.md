@@ -15,16 +15,12 @@ It’s the process of **remotely updating a device’s firmware** over a wireles
 
 
 
-<figure><img src="../.gitbook/assets/Fota diagram.jpg" alt="Fota diagram"><figcaption></figcaption></figure>
-
-
-
-####
-
 * The ESP32 supports FOTA via **HTTP/HTTPS** or **MQTT**, using the **OTA** API from ESP-IDF or Arduino libraries.
 * The firmware is downloaded to a secondary partition, validated, and then the device boots into the new firmware.
 
 
+
+<figure><img src="../.gitbook/assets/OTA.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
