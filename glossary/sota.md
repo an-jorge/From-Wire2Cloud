@@ -18,5 +18,12 @@ Many IoT devices **use both**:
 
 **FOTA** to fix hardware/protocol bugs.
 
-**SOTA** to update application logic without touching the firmware.
+**SOTA** will update the application logic without modifying the firmware.
 
+
+
+***
+
+
+
+<figure><img src="../.gitbook/assets/Sota_Fota.drawio.png" alt=""><figcaption></figcaption></figure>
