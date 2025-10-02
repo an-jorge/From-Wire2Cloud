@@ -8,7 +8,7 @@ icon: s
 
 
 
-**FOTA** = lowest level (firmware) → communication with hardware.
+[**FOTA**](#user-content-fn-1)[^1] = lowest level (firmware) → communication with hardware.
 
 **SOTA** = highest level (software/application) → device functionality and logic.
 
@@ -16,14 +16,16 @@ icon: s
 
 Many IoT devices **use both**:
 
-**FOTA** to fix hardware/protocol bugs.
+[**FOTA**](#user-content-fn-1)[^1] to fix hardware/protocol bugs.
 
 **SOTA** will update the application logic without modifying the firmware.
 
-
+&#x20;
 
 ***
 
 
 
-<figure><img src="../.gitbook/assets/Sota_Fota.drawio.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Sota_Fota.drawio.png" alt="Software Over-The-Air"><figcaption><p>Software Over-The-Air</p></figcaption></figure>
+
+[^1]: **FOTA** stands for **Firmware Over-The-Air**.

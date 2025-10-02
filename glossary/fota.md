@@ -15,14 +15,14 @@ It’s the process of **remotely updating a device’s firmware** over a wireles
 
 
 
-* The ESP32 supports FOTA via **HTTP/HTTPS** or **MQTT**, using the **OTA** API from ESP-IDF or Arduino libraries.
+* A better example is the ESP32, which supports FOTA via **HTTP/HTTPS** or **MQTT**, using the **OTA** API from ESP-IDF or Arduino libraries.
 * The firmware is downloaded to a secondary partition, validated, and then the device boots into the new firmware.
-
-
-
-<figure><img src="../.gitbook/assets/OTA.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
-**One-sentence summary:**\
+<figure><img src="../.gitbook/assets/OTA.drawio.png" alt="Firmware Over-The-Air"><figcaption><p><strong>Firmware Over-The-Air</strong></p></figcaption></figure>
+
+***
+
+**One-sentence:**\
 FOTA is a technique that remotely updates firmware over a network, improving convenience and reducing maintenance costs for embedded/IoT devices.
