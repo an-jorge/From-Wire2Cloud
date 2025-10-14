@@ -2,9 +2,7 @@
 icon: a
 ---
 
-# Analog-to-Digital Converter (ADC)
-
-## ADC
+# ADC
 
 ### Analog-to-Digital Converter (ADC)
 

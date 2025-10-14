@@ -25,7 +25,7 @@
 
 ## glossary
 
-* [Analog-to-Digital Converter (ADC)](glossary/analog-to-digital-converter-adc.md)
+* [ADC](glossary/adc.md)
 * [AES 128-bit](glossary/aes-128-bit.md)
 * [BOOTLOADER](glossary/bootloader.md)
 * [EEPROM](glossary/eeprom.md)
