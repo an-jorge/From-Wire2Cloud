@@ -22,6 +22,6 @@ It usually includes:
 
 ***
 
-**One-sentence:**
+#### **One-sentence:**
 
 An **MCU is a small, efficient chip that acts as the “brain” of embedded devices.**
