@@ -28,6 +28,7 @@
 * [ADC](glossary/adc.md)
 * [AES 128-bit](glossary/aes-128-bit.md)
 * [BOOTLOADER](glossary/bootloader.md)
+* [CLOCK](glossary/clock.md)
 * [EEPROM](glossary/eeprom.md)
 * [FOTA](glossary/fota.md)
 * [SOTA](glossary/sota.md)
